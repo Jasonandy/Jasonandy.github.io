@@ -19,7 +19,7 @@
 # GitHub-Blog
 * Project：Blog
 * OfficialWebsite：https://jasonandy.github.io/
-* Describe： 佛系小吴的 微信小程序之(二) ONE DAY
+* Describe： 佛系小吴的博客，基于Hexo搭建，前面的博客由于版本问题全面下架，仓库重建。
 
 
 > You are what you want to be.
